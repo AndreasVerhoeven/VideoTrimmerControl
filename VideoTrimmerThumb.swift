@@ -1,6 +1,6 @@
 //
 //  VideoTrimmerThumb.swift
-//  Lecture Recorder
+//  VideoTrimmer
 //
 //  Created by Andreas Verhoeven on 02/09/2020.
 //  Copyright © 2020 Andreas Verhoeven. All rights reserved.
