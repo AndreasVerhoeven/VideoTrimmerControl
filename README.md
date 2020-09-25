@@ -22,7 +22,7 @@ The control when the user has zoomed in on the timeline:
 <img src="https://user-images.githubusercontent.com/168214/94257066-08879000-ff2b-11ea-9d18-8d27a3931b83.png" width="360" height="68" alt="VideoTrimmer Screenshot when zoomed in on the timeline">
 
 ## Animated GIF of the Control in Action
-<img src="https://user-images.githubusercontent.com/168214/94281715-44cce780-ff4f-11ea-946e-5162cd26ada7.gif" width="404" height="850" alt="Animated GIF of the control in action">
+<img src="https://user-images.githubusercontent.com/168214/94281715-44cce780-ff4f-11ea-946e-5162cd26ada7.gif" width="202" height="425" alt="Animated GIF of the control in action">
 
 
 ## Configuration
